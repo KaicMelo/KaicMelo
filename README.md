@@ -10,5 +10,5 @@ I love learning new programming languages and developing my personal projects to
 - 🎓Bachelor of Computer Science
 - 🌍 Languages: Portuguese, English
 - 💬 Ask me about my personal projects
-- 📫 How to reach me: https://www.linkedin.com/in/kaicmelo7/
+- 📫 How to reach me: <a target="_blank"> https://www.linkedin.com/in/kaicmelo7/ </a>
 - ⚡ Fun fact: I love to play soccer, games and go to the gym
