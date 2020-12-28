@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi everybody 👋
 
-<!--
-**KaicMelo/KaicMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kaic Melo and I work with back-end development.
+I love learning new programming languages and developing my personal projects to apply the knowledge I've learned. I've 3 years of professional experience!
 
-Here are some ideas to get you started:
+🤎 NodeJs, Php, React, React-Native, Flutter, Typescript, gitFlow 🤎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Full back-end development
+🌱 I’m currently learning Angular 9
+🎓Bachelor of Computer Science
+🌍 Languages: Portuguese, English
+💬 Ask me about my personal projects
+📫 How to reach me: https://www.linkedin.com/in/kaicmelo7/
+⚡ Fun fact: I love to play soccer, games and go to the gym
