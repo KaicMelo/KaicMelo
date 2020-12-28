@@ -5,10 +5,10 @@ I love learning new programming languages and developing my personal projects to
 
 🤎 NodeJs, Php, React, React-Native, Flutter, Typescript, gitFlow 🤎
 
-🔭 Full back-end development
-🌱 I’m currently learning Angular 9
-🎓Bachelor of Computer Science
-🌍 Languages: Portuguese, English
-💬 Ask me about my personal projects
-📫 How to reach me: https://www.linkedin.com/in/kaicmelo7/
-⚡ Fun fact: I love to play soccer, games and go to the gym
+- 🔭 Full back-end development
+- 🌱 I’m currently learning Angular 9
+- 🎓Bachelor of Computer Science
+- 🌍 Languages: Portuguese, English
+- 💬 Ask me about my personal projects
+- 📫 How to reach me: https://www.linkedin.com/in/kaicmelo7/
+- ⚡ Fun fact: I love to play soccer, games and go to the gym
