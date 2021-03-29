@@ -5,7 +5,7 @@ I love learning new programming languages and developing my personal projects to
 
 🤎 NodeJs, Php, React, React-Native, Flutter, Typescript, gitFlow 🤎
 
-- 🔭 Full back-end development
+- 🔭 Web system development
 - 🌱 I’m currently learning Angular 9
 - 🎓Bachelor of Computer Science
 - 🌍 Languages: Portuguese, English
