@@ -1,7 +1,7 @@
 ### Hi everybody 👋
 
 I'm Kaic Melo and I work with front-end development.
-I love learning new programming languages and developing my personal projects to apply the knowledge I've learned. I've 3 years of professional experience!
+I love learning new programming languages and developing my personal projects to apply the knowledge I've learned. I've 4 years of professional experience!
 
 🤎 NodeJs, Php, React, React-Native, Flutter, Typescript, gitFlow, Angular 10 🤎
 
