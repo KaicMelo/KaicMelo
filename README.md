@@ -22,9 +22,8 @@ I love learning new programming languages and developing my personal projects to
   ##
  
 <div> 
-  <a href="https://instagram.com/kaic.melo7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/kahmsantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kaicmelosantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaicmelo7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://twitter.com/" target="_blank"><img src=https://img.shields.io/twitter/follow/emyslandim?color=%231d9bf0&label=Twitter&style=for-the-badge target="_blank"></a> 
  
 </div>
